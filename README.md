@@ -9,3 +9,6 @@ I'm a hands-on DevOps/Platform engineer passionate about building scalable, reli
 🌍 Believer in open-source and shipping smart — not hard.
 
 Let’s connect, collaborate, and build cool stuff together.
+
+## 📜 Certifications
+[![CKA](https://img.shields.io/badge/Kubernetes-CKA-blue?logo=kubernetes)]([https://www.credly.com/badges/your-cert-link](https://www.credly.com/badges/13275844-408c-49ed-801c-1deae9896497))
