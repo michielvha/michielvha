@@ -6,7 +6,7 @@
 I'm a hands-on DevOps/Platform engineer passionate about building scalable, reliable systems using modern cloud-native tooling. Whether it's Kubernetes automation, Infrastructe as code, custom CLI tools, or lean pipelines that ship fast — I’m all about clean architecture and efficient delivery.
 
 📦 Currently building edge-native infrastructure and developer tooling.  
-🌍 Believer in open-source and shipping smart — not hard.
+🌍 Believer in open-source and shipping smart.
 
 Let’s connect and build cool stuff together.
 
