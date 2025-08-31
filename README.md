@@ -12,6 +12,6 @@ Let’s connect and build cool stuff together.
 
 ---
 ### 📜 Certifications
-[![CKA](https://img.shields.io/badge/Kubernetes-CKA-blue?logo=kubernetes)](https://www.credly.com/badges/13275844-408c-49ed-801c-1deae9896497)  
 [![KCNA](https://img.shields.io/badge/Kubernetes-KCNA-blue?logo=kubernetes)](https://www.credly.com/badges/b9f47810-2c42-4104-a641-2839777d58f2/public_url)  
+[![CKA](https://img.shields.io/badge/Kubernetes-CKA-blue?logo=kubernetes)](https://www.credly.com/badges/13275844-408c-49ed-801c-1deae9896497)  
 [![GH-200: GitHub Actions](https://img.shields.io/badge/GitHub-GH--200%3A%20Actions-181717?logo=github)](https://learn.microsoft.com/en-us/users/michielvanhaegenborgh-8337/transcript/d952xa1jgke6wl6)
