@@ -10,6 +10,8 @@ I'm a hands-on DevOps/Platform engineer passionate about building scalable, reli
 
 Let’s connect and build cool stuff together.
 
+Read my blog at : https://mvha.be.eu.org
+
 ---
 ### 📜 Certifications
 [![KCNA](https://img.shields.io/badge/Kubernetes-KCNA-blue?logo=kubernetes)](https://www.credly.com/badges/b9f47810-2c42-4104-a641-2839777d58f2/public_url)  
