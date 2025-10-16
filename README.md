@@ -1,5 +1,5 @@
 ☁️ **DevOps/Platform Engineer**  
-☸️ **Certified Kubernetes & Cloud Native Engineer**  
+☸️ **Certified in Kubernetes & Cloud Native (security)**  
 🐧 **Linux Enthusiast**  
 💻 **Golang, bash, python, terraform, pwsh, CI/CD (Github, Azure DevOps, Gitlab), ...**  
 
