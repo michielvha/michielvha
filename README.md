@@ -23,6 +23,9 @@ Read my blog at : https://mvha.be.eu.org
 | [![GH-200: GitHub Actions](https://img.shields.io/badge/GitHub-GH--200%3A%20Actions-181717?logo=github)](https://learn.microsoft.com/en-us/users/michielvanhaegenborgh-8337/transcript/d952xa1jgke6wl6) | Certified GitHub Actions Professional |
 
 ### Stats
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=michielvha&count_private=true&hide=contribs&show_icons=true&theme=github_dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michielvha&layout=compact&langs_count=10&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michielvha&theme=github-dark-blue)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=michielvha&count_private=true&hide=contribs&theme=github_dark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michielvha&layout=compact&theme=github_dark)
