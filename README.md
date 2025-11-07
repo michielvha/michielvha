@@ -24,7 +24,7 @@ Read my blog at : https://mvha.be.eu.org
 
 ### Stats
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=bigwheel&count_private=true&hide=contribs&theme=algolia)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bigwheel&layout=compact&theme=algolia)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=michielvha&count_private=true&hide=contribs&theme=github_dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michielvha&layout=compact&theme=github_dark)
 
 <!-- check all themes at: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
