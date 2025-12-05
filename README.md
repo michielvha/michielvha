@@ -10,7 +10,7 @@ I'm a hands-on DevOps/Platform engineer passionate about building scalable, reli
 
 Let’s connect and build cool stuff together.
 
-Read my blog at : https://mvha.be.eu.org
+Find out more at : https://vhco.pro
 
 ---
 ### 📜 Certifications
