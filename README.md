@@ -22,11 +22,11 @@ Find out more at : https://vhco.pro
 | [![CKA](https://img.shields.io/badge/Kubernetes-CKA-blue?logo=kubernetes)](https://www.credly.com/badges/13275844-408c-49ed-801c-1deae9896497/public_url) | Certified Kubernetes Administrator |
 | [![GH-200: GitHub Actions](https://img.shields.io/badge/GitHub-GH--200%3A%20Actions-181717?logo=github)](https://learn.microsoft.com/en-us/users/michielvanhaegenborgh-8337/transcript/d952xa1jgke6wl6) | Certified GitHub Actions Professional |
 
-### Badges
+<!-- ### Badges
 
 <img src="https://raw.githubusercontent.com/michielvha/michielvha/main/img/cka.svg" height="160px" width="160px">
 <img src="https://raw.githubusercontent.com/michielvha/michielvha/main/img/kcsa.svg" height="160px" width="160px">
-<img src="https://raw.githubusercontent.com/michielvha/michielvha/main/img/kcna.svg" height="160px" width="160px">
+<img src="https://raw.githubusercontent.com/michielvha/michielvha/main/img/kcna.svg" height="160px" width="160px"> -->
 
 ### Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=michielvha&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
