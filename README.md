@@ -5,12 +5,12 @@
 
 I'm a hands-on DevOps/Platform engineer passionate about building scalable, reliable systems using modern cloud-native tooling. Whether it's Kubernetes, Infrastructe as code, custom tools, or CI/CD, I’m all about clean architecture and efficient delivery.
 
-📦 Currently building edge-native infrastructure and developer tooling.  
+📦 Currently building cloud-native infrastructure and developer tooling.  
 🌍 Believer in open-source and shipping smart.
 
-Let’s connect and build cool stuff together.
+Always open to connect with people who share similar interests.
 
-Find out more at : https://vhco.pro
+Find out more about me at : https://vhco.pro
 
 ---
 ### 📜 Certifications
