@@ -24,9 +24,9 @@ Find out more at : https://vhco.pro
 
 ### Badges
 
-<img src="https://raw.githubusercontent.com/michielvha/michielvha/main/cka.svg" height="160px" width="160px">
-<img src="https://raw.githubusercontent.com/michielvha/michielvha/main/kcsa.svg" height="160px" width="160px">
-<img src="https://raw.githubusercontent.com/michielvha/michielvha/main/kcna.svg" height="160px" width="160px">
+<img src="https://raw.githubusercontent.com/michielvha/michielvha/main/img/cka.svg" height="160px" width="160px">
+<img src="https://raw.githubusercontent.com/michielvha/michielvha/main/img/kcsa.svg" height="160px" width="160px">
+<img src="https://raw.githubusercontent.com/michielvha/michielvha/main/img/kcna.svg" height="160px" width="160px">
 
 ### Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=michielvha&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
