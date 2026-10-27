@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="36" viewBox="0 0 172 36" role="img" aria-labelledby="title">
+  <title id="title">Visit vhco.pro</title>
+  <defs><linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#007d98"/><stop offset=".5" stop-color="#3366ff"/><stop offset="1" stop-color="#a23fed"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="171" height="35" rx="7" fill="#f6f8fa" stroke="url(#brand)"/>
+  <g fill="none" stroke="#007d98" stroke-width="1.2" stroke-linecap="round"><circle cx="19" cy="18" r="7"/><ellipse cx="19" cy="18" rx="3" ry="7"/><path d="M12 18h14"/></g>
+  <path d="M37 10v16" stroke="#d1d9e0"/>
+  <text x="49" y="23" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">vhco.pro</text>
+  <path d="m145 23 9-9m-7 0h7v7" fill="none" stroke="#1f2328" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
