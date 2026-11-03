@@ -7,6 +7,13 @@
 
 Usually somewhere between a codebase and a Kubernetes cluster.
 
+### Stackweaver
+
+I'm building [Stackweaver](https://stackweaver.sh), a source-available platform for Ansible and OpenTofu automation.
+Run it yourself with Docker Compose or Helm and keep your automation in Git.
+
+[Explore Stackweaver](https://stackweaver.sh) · [Installation guides](https://stackweaver.sh/docs/get-started/self-hosting) · [Why I built it](https://stackweaver.sh/blog/why-i-built-stackweaver)
+
 ### My arsenal
 
 <p>
